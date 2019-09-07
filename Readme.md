@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Elena Poddubnaya](https://up.htmlacademy.ru/htmlcss/26/user/813467).
-* Наставник: `Неизвестно`.
+* Наставник: [Тимофей Петров](https://htmlacademy.ru/profile/id1112545).
 
 ---
 
